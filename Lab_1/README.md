@@ -2,7 +2,7 @@
 
 ## Q3. Insert 3 (at least) documents in Student collection with different values.
 	1. Try inserting one record each time
-     ![Q3.1]("Q3_1.png")
+     !(Q3.1)["Q3_1.png"]
 	2. Try inserting many students using one insert statement.
      ![Q3.2]("Q3_2.png")
 ## Q4. Retrieve the following data:
