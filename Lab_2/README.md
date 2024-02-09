@@ -27,8 +27,3 @@ B) Library Database using books.json
 
 
 
-
-
-
-mongoimport --uri mongodb+srv://hadeerkhaled257:Eng7705068@cluster0.opfhzmx.mongodb.net/library --collection books ./books.json --jso
-nArray
